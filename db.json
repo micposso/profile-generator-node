@@ -156,6 +156,58 @@
       "latitude": "-30.2443",
       "longitude": "-157.5899",
       "avatar": "https://cdn.fakercloud.com/avatars/lmjabreu_128.jpg"
+    },
+    {
+      "name": "Mrs. Brown Ondricka",
+      "dob": "1976-4-8",
+      "email": "Brown.Ondricka42@gmail.com",
+      "username": "Brown73",
+      "password": "x9eGRzrhgGFfsKV",
+      "phone": "306-491-1373",
+      "streetaddress": "10216 Rodriguez Manors",
+      "citystatezip": "Port Phoebefort, IL 40829",
+      "latitude": "35.5178",
+      "longitude": "17.3445",
+      "avatar": "https://cdn.fakercloud.com/avatars/lewisainslie_128.jpg"
+    },
+    {
+      "name": "Marcelle Zemlak",
+      "dob": "1963-11-19",
+      "email": "Marcelle_Zemlak91@yahoo.com",
+      "username": "Marcelle.Zemlak",
+      "password": "Fihbvbatq0B1gO5",
+      "phone": "488-203-1172",
+      "streetaddress": "6503 Mallory Plaza",
+      "citystatezip": "West Floydhaven, WY 92223",
+      "latitude": "-60.7865",
+      "longitude": "110.7273",
+      "avatar": "https://cdn.fakercloud.com/avatars/matt3224_128.jpg"
+    },
+    {
+      "name": "Kasey Greenholt",
+      "dob": "1966-11-11",
+      "email": "Kasey70@yahoo.com",
+      "username": "Kasey.Greenholt",
+      "password": "GziQKHuvfWz8ETh",
+      "phone": "1-457-457-8027 x85826",
+      "streetaddress": "7974 Ziemann Road",
+      "citystatezip": "Santa Fe, OR 57723-7657",
+      "latitude": "-82.5457",
+      "longitude": "-39.8517",
+      "avatar": "https://cdn.fakercloud.com/avatars/romanbulah_128.jpg"
+    },
+    {
+      "name": "Laila Hilpert",
+      "dob": "1956-3-21",
+      "email": "Laila.Hilpert@hotmail.com",
+      "username": "Laila.Hilpert",
+      "password": "bYKJOCk3nkJtJp3",
+      "phone": "821-379-6647 x9139",
+      "streetaddress": "77062 Sarai Land",
+      "citystatezip": "Fargo, SC 25603",
+      "latitude": "38.8736",
+      "longitude": "4.6875",
+      "avatar": "https://cdn.fakercloud.com/avatars/tgerken_128.jpg"
     }
   ]
 }

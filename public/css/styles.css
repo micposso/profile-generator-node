@@ -1,5 +1,8 @@
 .cards {
-  display: flex;
+  display: grid;
   gap: 10px;
   flex-basis: 30%;
+  grid-gap: 10px;
+  grid-template-columns: repeat(5, 1fr);
 }
+
